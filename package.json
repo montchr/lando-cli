@@ -202,7 +202,7 @@
     "jsdoc-to-markdown": "^4.0.1",
     "leia-parser": "^0.4.0",
     "mocha": "^4.1.0",
-    "mock-fs": "https://github.com/pirog/mock-fs.git#256-ctxBindingAccess",
+    "mock-fs": "^5.1.4",
     "nyc": "^12.0.1",
     "pkg": "^5.3.1",
     "rimraf": "^3.0.2",
